@@ -11,9 +11,9 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Christos Vasileios Lousis"
+description              : &description "Christos Vasileios Lousis is a Mechanical Engineer specializing in soft robotics, mechatronics, and advanced control systems.He earned his MEng from the National Technical University of Athens, where he focused on mechanical design and automation. His research centers on the design, fabrication, and control of soft pneumatic systems, with applications in minimally invasive surgery and wearable robotics. He is currently a researcher at the Control Systems and Robotics Lab at the Hellenic Mediterranean University, contributing to EU-funded Horizon projects, including PALPABLE and SWAG. His work has led to the development of novel soft actuators, compact pneumatic supply systems, and energy-harvesting mechanisms for exosuit technologies. Christos has presented his work at international conferences such as RoboSoft and is actively involved in advancing bioinspired and compliant robotic systems. Alongside his research, he has experience in mechanical design, simulation, and structural engineering."   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://lousisrobotics.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,8 +24,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Christos V. Lousis"
+  pronouns         : "He/Him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"

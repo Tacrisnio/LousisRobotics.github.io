@@ -1,18 +1,10 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
 # Basic Site Settings
 locale                   : "en-EU"
 site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Lousis Robotics"
 title_separator          : "-"
 name                     : &name "Christos Vasileios Lousis"
-description              : &description "This website presents the academic and research work of Christos Vasileios Lousis, a Mechanical Engineer specializing in soft robotics, compliant mechanisms, and control systems. The site highlights projects and research focused on the design, simulation, and fabrication of soft pneumatic actuators, with applications in biomedical engineering and wearable robotics. It also includes work on modular conveying systems, energy-efficient actuation, and advanced mechatronic design. Here, you can find information about ongoing research in EU-funded projects, publications, technical skills, and selected engineering projects, as well as insights into methodologies combining mechanical design, control, and experimental validation."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Soft robotics researcher focused on soft actuators, compliant mechanisms, and bio-inspired systems."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://lousisrobotics.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,63 +16,22 @@ repository               : "LousisRobotics.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Christos V. Lousis"
-  pronouns         : "He/Him"  
-  bio              : "Christos Vasileios Lousis is a Mechanical Engineer specializing in soft robotics, mechatronics, and advanced control systems.He earned his MEng from the National Technical University of Athens, where he focused on mechanical design and automation. His research centers on the design, fabrication, and control of soft pneumatic systems, with applications in minimally invasive surgery and wearable robotics. He is currently a researcher at the Control Systems and Robotics Lab at the Hellenic Mediterranean University, contributing to EU-funded Horizon projects, including PALPABLE and SWAG. His work has led to the development of novel soft actuators, compact pneumatic supply systems, and energy-harvesting mechanisms for exosuit technologies. Christos has presented his work at international conferences such as RoboSoft and is actively involved in advancing bioinspired and compliant robotic systems. Alongside his research, he has experience in mechanical design, simulation, and structural engineering."
+  name             : "Christos V. Lousis"  
+  bio              : "Soft robotics researcher working on soft actuators and compliant systems."
   location         : "Athens, Greece"
-  employer         : "Hellenic Mediterrenean University (HMU)"
-  uri              : # URL
   email            : "lousiscris@gmail.com" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
 
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  github           : "academicpages" 
 
   # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
   linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:

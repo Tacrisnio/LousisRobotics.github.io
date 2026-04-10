@@ -7,16 +7,16 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+locale                   : "en-EU"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Lousis Robotics"
 title_separator          : "-"
 name                     : &name "Christos Vasileios Lousis"
-description              : &description "Christos Vasileios Lousis is a Mechanical Engineer specializing in soft robotics, mechatronics, and advanced control systems.He earned his MEng from the National Technical University of Athens, where he focused on mechanical design and automation. His research centers on the design, fabrication, and control of soft pneumatic systems, with applications in minimally invasive surgery and wearable robotics. He is currently a researcher at the Control Systems and Robotics Lab at the Hellenic Mediterranean University, contributing to EU-funded Horizon projects, including PALPABLE and SWAG. His work has led to the development of novel soft actuators, compact pneumatic supply systems, and energy-harvesting mechanisms for exosuit technologies. Christos has presented his work at international conferences such as RoboSoft and is actively involved in advancing bioinspired and compliant robotic systems. Alongside his research, he has experience in mechanical design, simulation, and structural engineering."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "This website presents the academic and research work of Christos Vasileios Lousis, a Mechanical Engineer specializing in soft robotics, compliant mechanisms, and control systems. The site highlights projects and research focused on the design, simulation, and fabrication of soft pneumatic actuators, with applications in biomedical engineering and wearable robotics. It also includes work on modular conveying systems, energy-efficient actuation, and advanced mechatronic design. Here, you can find information about ongoing research in EU-funded projects, publications, technical skills, and selected engineering projects, as well as insights into methodologies combining mechanical design, control, and experimental validation."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://lousisrobotics.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "LousisRobotics.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Christos V. Lousis"
   pronouns         : "He/Him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Christos Vasileios Lousis is a Mechanical Engineer specializing in soft robotics, mechatronics, and advanced control systems.He earned his MEng from the National Technical University of Athens, where he focused on mechanical design and automation. His research centers on the design, fabrication, and control of soft pneumatic systems, with applications in minimally invasive surgery and wearable robotics. He is currently a researcher at the Control Systems and Robotics Lab at the Hellenic Mediterranean University, contributing to EU-funded Horizon projects, including PALPABLE and SWAG. His work has led to the development of novel soft actuators, compact pneumatic supply systems, and energy-harvesting mechanisms for exosuit technologies. Christos has presented his work at international conferences such as RoboSoft and is actively involved in advancing bioinspired and compliant robotic systems. Alongside his research, he has experience in mechanical design, simulation, and structural engineering."
+  location         : "Athens, Greece"
+  employer         : "Hellenic Mediterrenean University (HMU)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lousiscris@gmail.com" 
 
   # Academic websites
   academia         : # URL
